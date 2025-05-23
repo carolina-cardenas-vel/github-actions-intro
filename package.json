@@ -8,6 +8,7 @@
     "start": "next start",
     "test": "next lint"
   },
+  
   "dependencies": {
     "next": "13.5.4",
     "react": "18.2.0",
